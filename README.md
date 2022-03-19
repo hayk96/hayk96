@@ -30,7 +30,7 @@ Property | Data
 --- | --- 
 ![hayk96's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayk96&show_icons=true&theme=tokyonight&include_all_commits=true) | ![hayk96's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hayk96&theme=tokyonight)
 
-![hayk96's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hayk96)
+![hayk96's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hayk96&theme=dark&background=1A1B27&currStreakLabel=3ABCAD&ring=6290DA&fire=6290DA&dates=FFFFFF&sideNums=59CDE9&currStreakNum=3ABCAD&sideLabels=3ABCAD)
 
 --- 
 
