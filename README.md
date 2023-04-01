@@ -42,7 +42,7 @@ Property | Data
 
 ### **📫 How to Reach me:**
 <p align="left">
-<a href="https://linkedin.com/in/hayk-davtyan-" target="blank"><img align="center" src="images/social/linkedin.png" alt="Linkedin" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/hayk96" target="blank"><img align="center" src="images/social/linkedin.png" alt="Linkedin" height="30" width="30" /></a>
 <a href="mailto:hayko5999@gmail.com" target="blank"><img align="center" src="images/social/gmail.png" alt="Gmail" height="30" width="30" /></a>
 </p>
 
