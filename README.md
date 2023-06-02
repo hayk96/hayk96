@@ -24,7 +24,8 @@ Property | Data
 
 <!--   GitHub stats graph -->
 ### 📊 GitHub Activity:
-![hayk96's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hayk96&theme=tokyo-night)
+![hayk96's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hayk96&theme=tokyo-night)
+
 
 &nbsp; | &nbsp;
 --- | --- 
