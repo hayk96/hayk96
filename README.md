@@ -3,7 +3,7 @@
     <a href="https://github.com/hayk96/hayk96/stargazers"><img src="https://img.shields.io/github/stars/hayk96/hayk96.svg?logo=github" alt="stars"></a>
     <a href="https://github.com/hayk96/hayk96/network/members"><img src="https://img.shields.io/github/forks/hayk96/hayk96.svg?color=blue&logo=github" alt="forks"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=hayk96.hayk96" alt="visitors"/>
-    <img src="https://gpvc.arturio.dev/hayk96" alt="profileViews"/>
+    <img src="https://komarev.com/ghpvc/?username=hayk96" alt="profileViews"/>
 </p>
 
 ![](./images/cover.jpeg)
